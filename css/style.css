@@ -1,3 +1,35 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    /* DEBUG */
+    height: 2000px;
+}
+/* NavBar */
+.ms_logo{
+    width: 40px;
+    height: 40px;
+}
+.ms_search_bar{
+    padding: 0px 50px;
+    background: url(../img/magnifying-glass-solid.svg) no-repeat 5px;
+}
+
+/* Side Bell */
+.ms_side_bell{
+    width: 100px;
+}
+/* Bell */
+.ms_bell{
+    border: 0;
+    color: #ff8e02;
+    background-color: #fff;
+}
+/* Main */
+main{
+    padding-top: 100px;
+}
+
+
+/* DEBUG */
+.ms_b_container{
+    border: solid red 1p;
 }
