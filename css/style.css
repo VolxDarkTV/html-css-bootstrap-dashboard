@@ -44,11 +44,22 @@ main{
 .ms_toolbar_width:hover{
     background-color: rgb(255, 255, 255, 0.2);
 }
+.ms_min_width_side_toolbar{
+    min-width: 200px;
+}
 
+/* Main Page */
+.ms_col_color{
+   background-color: #1b72e8; 
+}
+.ms_plan{
+    border-radius: 40px;
+    background-color: rgb(0, 0, 0, 0.2);
+}
+/* Before Arrow */
+.ms_before_arrow::before{
 
-
-
-
+}
 
 
 
