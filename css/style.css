@@ -1,8 +1,11 @@
 body{
     font-family: 'Open Sans', sans-serif;
     /* DEBUG */
-    height: 2000px;
+    /* height: 2000px; */
 }
+
+
+
 /* NavBar */
 .ms_logo{
     width: 40px;
@@ -17,19 +20,51 @@ body{
 .ms_side_bell{
     width: 100px;
 }
+
 /* Bell */
 .ms_bell{
     border: 0;
     color: #ff8e02;
     background-color: #fff;
 }
+
+
+
 /* Main */
 main{
-    padding-top: 100px;
+    padding-top: 60px;
 }
+
+/* Main Height */
+.ms_main_height{
+    height: calc(100vh - 60px);
+}
+
+/* ToolBar */
+.ms_toolbar_width:hover{
+    background-color: rgb(255, 255, 255, 0.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* DEBUG */
 .ms_b_container{
-    border: solid red 1p;
+    border: solid red 1px;
+    background-color: #051e34;
+}
+.ms_d_test{
+    /* width: 100px; */
+    /* height: 1000px; */
+    background-color: black;
 }
