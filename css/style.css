@@ -56,10 +56,24 @@ main{
     border-radius: 40px;
     background-color: rgb(0, 0, 0, 0.2);
 }
-/* Before Arrow */
-.ms_before_arrow::before{
 
+/* Marked-Block */
+.ms_marked_block{
+    width: 100%;
+    background-color: gray;
+    border-radius: 10px 10px 0px 0px;
+    /* DEBUG */
+    height: 110px;
 }
+/* Smarked-Block */
+.ms_smarked_block{
+    width: 100%;
+    background-color: white;
+    border-radius: 0px 0px 10px 10px;
+    /* DEBUG */
+    min-height: 110px;
+}
+
 
 
 
