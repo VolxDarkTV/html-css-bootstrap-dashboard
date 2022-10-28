@@ -1,6 +1,6 @@
 /* desktop */
 @media screen and (max-width: 991px){
     .ms_min_width_side_toolbar{
-        min-width: 100px;
+        min-width: 50px;
     }
 }
