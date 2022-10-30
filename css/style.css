@@ -60,7 +60,7 @@ main{
 /* Marked-Block */
 .ms_marked_block{
     width: 100%;
-    background-color: gray;
+    background-color: #f7f7f7;
     border-radius: 10px 10px 0px 0px;
     /* DEBUG */
     height: 110px;
@@ -81,6 +81,13 @@ main{
 /* space */
 .ms_smart_tab_space{
     width: 15%;
+}
+/* Stato */
+.ms_state_box{
+    min-width: 50px;
+    max-width: 80px;
+    height: 25px;
+    border-radius: 10px;
 }
 
 
