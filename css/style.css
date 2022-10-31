@@ -104,11 +104,11 @@ main{
 
 /* DEBUG */
 .ms_b_container{
-    border: solid red 1px;
+    /* border: solid red 1px; */
     background-color: #051e34;
 }
-.ms_d_test{
+/* .ms_d_test{
     width: 100px;
     height: 100px;
     background-color: black;
-}
+} */
